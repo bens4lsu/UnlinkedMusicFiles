@@ -1,0 +1,20 @@
+Oct 16, 2025 at 19:09:33
+
+
+#0 in library but not in file structure.
+
+
+
+
+#7 in file structure but not in library.
+
+/Users/ben/Music_/Music/Compilations/Top 1000 Pop Hits of the 80's/01 To France (Remastered 2015).m4a
+/Users/ben/Music_/Music/Compilations/Top 1000 Pop Hits of the 80's/Sara 2.mp3
+/Users/ben/Music_/Music/Compilations/Top 1000 Pop Hits of the 80's/Your Love 2.mp3
+/Users/ben/Music_/Music/Songs of Innocence/Songs of Innocence/01 The Miracle (Of Joey Ramone).m4a
+/Users/ben/Music_/Music/Songs of Innocence/Songs of Innocence/Digital Booklet - Songs of Innocence.pdf
+/Users/ben/Music_/Music/The Avett Brothers/The Carpenter/Digital Booklet - The Carpenter.pdf
+/Users/ben/Music_/Music/Various Artists/Winter Songs/Digital Booklet - The Hotel Café Presents Winter Songs.pdf
+
+#0 empty subfolders.
+
