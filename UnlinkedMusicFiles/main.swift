@@ -161,8 +161,13 @@ let report = """
 \(reportEmptyFolders)
 """
 
-
 try reportFile.write(report)
+
+// write all file paths
+//let reportAll = appleMusicFiles.map{$0.value}.sorted().joined(separator: "\n")
+//try reportFile.write(reportAll)
+
+
 
 print("done")
 
